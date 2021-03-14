@@ -8,12 +8,11 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-```{r, echo=F}
-library(emo)
-```
+
+
+This is a tutorial of using emoji (or other images) in ggplot2 scatter plot. Our task is to create a map (scatter plot) to show the "most popular vegetable by state in US", where each state is represented by vegetable emoji. It would be good to generate some visual outputs similar to the grid maps as shown in [this article](https://flowingdata.com/2015/05/12/the-great-grid-map-debate-of-2015/).
 
 ### 1. Get the data
-This is a tutorial of using emoji (or other images) in ggplot2 scatter plot. Our task is to create a map (scatter plot) to show the "most popular vegetable by state in US", where each state is represented by vegetable emoji. It would be good to generate some visual outputs similar to the grid maps as shown in [this article](https://flowingdata.com/2015/05/12/the-great-grid-map-debate-of-2015/).
 
 The **most popular vegetable data** is obtained from  <https://www.thedailymeal.com/eat/popular-vegetable-us-states>, I have tidied up and stored the information in "data/state-fav-veg.csv" in this [repository](https://github.com/yyuanxuan/squared-map-veg-emoji).
 

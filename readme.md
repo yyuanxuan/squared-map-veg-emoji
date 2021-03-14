@@ -2,14 +2,14 @@ Use emoji in ggplot2 scatter plot
 ================
 yuanxuan yang
 
-### 1. Get the data
-
 This is a tutorial of using emoji (or other images) in ggplot2 scatter
 plot. Our task is to create a map (scatter plot) to show the “most
 popular vegetable by state in US”, where each state is represented by
 vegetable emoji. It would be good to generate some visual outputs
 similar to the grid maps as shown in [this
 article](https://flowingdata.com/2015/05/12/the-great-grid-map-debate-of-2015/).
+
+### 1. Get the data
 
 The **most popular vegetable data** is obtained from
 <https://www.thedailymeal.com/eat/popular-vegetable-us-states>, I have
@@ -70,7 +70,7 @@ state_location %>%
   coord_fixed()
 ```
 
-![](readme_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](readme_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 We then join the **state\_veg** and **state\_location**, and make a
 basic scatter plot using ggpplot2. The dot’s color represent different
@@ -92,7 +92,7 @@ state_veg  %>%
   coord_fixed()
 ```
 
-![](readme_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](readme_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ### 2. Emoji Time
 
@@ -215,7 +215,7 @@ ggplot()+
   )
 ```
 
-![](readme_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](readme_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
 **Hurray, it works!** So again we can make some further tweaks, add a
 vintage-paper look background color, change the font style, add title
@@ -254,7 +254,7 @@ ggplot()+
   )
 ```
 
-![](readme_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](readme_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
 ### 3. Final note
 
@@ -273,4 +273,4 @@ and [**emoGG**](https://github.com/dill/emoGG) can only provide us the
 choice of emoji. Here I replaced the corn with an copyright-free image
 of popcorn. :)
 
-![](readme_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](readme_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
