@@ -66,11 +66,11 @@ state_veg  %>%
 The scatter plot above Looks good so far, but why not replace the boring dots with some emoji vegetables? Let's do it!
 
 
-![alt text here](img/broccoli_1f966.png){width=10%}
-![alt text here](img/tomato_1f345.png){width=10%}
-![alt text here](img/carrot_1f955.png){width=10%}
-![alt text here](img/cucumber_1f952.png){width=10%}
-![alt text here](img/ear-of-corn_1f33d.png){width=10%}
+![alt text here](img/broccoli_1f966.png){width=5%}
+![alt text here](img/tomato_1f345.png){width=5%}
+![alt text here](img/carrot_1f955.png){width=5%}
+![alt text here](img/cucumber_1f952.png){width=5%}
+![alt text here](img/ear-of-corn_1f33d.png){width=5%}
 
 I have tried different ways of using emoji in ggplot, although there are approaches like [**emojifont**](https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html) and [**emoGG**](https://github.com/dill/emoGG), they tend to use the flat version of emoji. As a Apple Fanboy (not really), i prefer the classic apple version a bit more. 
 
