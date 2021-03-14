@@ -99,11 +99,11 @@ state_veg  %>%
 The scatter plot above Looks good so far, but why not replace the boring
 dots with some emoji vegetables? Let’s do it!
 
-<img src="img/broccoli_1f966.png" style="width:3.0%" alt="alt text here" />
-<img src="img/tomato_1f345.png" style="width:3.0%" alt="alt text here" />
-<img src="img/carrot_1f955.png" style="width:3.0%" alt="alt text here" />
-<img src="img/cucumber_1f952.png" style="width:3.0%" alt="alt text here" />
-<img src="img/ear-of-corn_1f33d.png" style="width:3.0%" alt="alt text here" />
+<img src="img/broccoli_1f966.png" width="30" alt="alt text here" />
+<img src="img/tomato_1f345.png" width="30" alt="alt text here" />
+<img src="img/carrot_1f955.png" width="30" alt="alt text here" />
+<img src="img/cucumber_1f952.png" width="30" alt="alt text here" />
+<img src="img/ear-of-corn_1f33d.png" width="30" alt="alt text here" />
 
 I have tried different ways of using emoji in ggplot, although there are
 approaches like
