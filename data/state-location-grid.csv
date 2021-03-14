@@ -1,0 +1,52 @@
+code,name,x,y
+AL,Alabama,7,2
+AK,Alaska,1,8
+AZ,Arizona,2,3
+AR,Arkansas,5,3
+CA,California,1,4
+CO,Colorado,3,4
+CT,Connecticut,10,5
+DE,Delaware,10,4
+FL,Florida,9,1
+GA,Georgia,8,2
+HI,Hawaii,1,1
+ID,Idaho,2,6
+IL,Illinois,6,6
+IN,Indiana,6,5
+IA,Iowa,5,5
+KS,Kansas,4,3
+KY,Kentucky,6,4
+LA,Louisiana,5,2
+ME,Maine,11,8
+MD,Maryland,9,4
+MA,Massachusetts,10,6
+MI,Michigan,7,6
+MN,Minnesota,5,6
+MS,Mississippi,6,2
+MT,Montana,3,6
+MO,Missouri,5,4
+NE,Nebraska,4,4
+NV,Nevada,2,5
+NH,New Hampshire,11,7
+NJ,New Jersey,9,5
+NM,New Mexico,3,3
+NY,New York,9,6
+NC,North Carolina,7,3
+ND,North Dakota,4,6
+OH,Ohio,7,5
+OK,Oklahoma,4,2
+OR,Oregon,1,5
+PA,Pennsylvania,8,5
+RI,Rhode Island,11,5
+SC,South Carolina,8,3
+SD,South Dakota,4,5
+TN,Tennessee,6,3
+TX,Texas,4,1
+UT,Utah,2,4
+VT,Vermont,10,7
+VA,Virginia,8,4
+WA,Washington,1,6
+DC,Washington D.C.,9,3
+WV,West Virginia,7,4
+WI,Wisconsin,6,7
+WY,Wyoming,3,5
